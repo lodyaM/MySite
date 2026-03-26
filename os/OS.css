@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: #000;
+    margin: 0;
+    padding: 0;
+    font-family: 'JetBrains Mono', monospace;
+    color: white;
+}
+
+.main{
+    margin-top: 100px;
+}
+
+.main h1{
+    font-size: 40px;
+}
+
+.main h2{
+    font-size: 30px;
+}
+
+.main li{
+    font-size: 30px;
+}
+
+.main ol{
+    margin-left: 25px;
+}
+
+.up{
+    margin: 100px;
+}
+
+.up a {
+    text-decoration: none;
+    color: inherit;
+}
